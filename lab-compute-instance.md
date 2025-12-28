@@ -33,7 +33,7 @@ Recommended configuration for this lab:
 
 - **Name:** `lab-compute`
 - **Image:** Oracle Linux (or other preferred Linux image)
-- **Shape:** `VM.Standard.E2.1.Micro` (free tier eligible)
+- **Shape:** `Ampere` `VM.Standard.A1.Flex` (free tier eligible)
 - **Availability Domain:** Any
 - **Networking:**
   - **Virtual Cloud Network:** `lab-vcn`
